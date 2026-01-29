@@ -32,3 +32,30 @@ Large interactive displays are expensive and non-portable. This project demonstr
 - Camera calibration
 - Multi-threaded performance optimization
 - Gesture-controlled Tic Tac Toe game
+
+## 📊 Results
+- Real-time hand pose tracking with depth information
+- Successful 3D → 2D coordinate mapping
+- Desk surface converted into interactive screen
+- Smooth Tic Tac Toe gameplay using finger gestures
+
+### Demo Images
+
+#### 🔧 System Setup
+![Setup](assets/setup2.jpeg)
+
+---
+
+#### ✋ Hand Tracking
+![Hand Tracking 1](assets/hand_gesture3.jpeg)
+![Hand Tracking 2](assets/hand_gesture4.jpeg)
+
+---
+
+#### 🖥 Interactive Surface
+![Interactive Surface 1](assets/test1.jpeg)
+![Interactive Surface 2](assets/test2.jpeg)
+
+### Demo Video
+▶️ [Demo video (Google Drive)](<https://drive.google.com/file/d/1n97Alhxw7nzLxnDaebDS6rdCNyMfkAYD/view?usp=sharing>)
+
